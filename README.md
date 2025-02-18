@@ -10,6 +10,7 @@
 <img src ="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white">
 
 </p>
+Updating original page w/changes to waitlist design.
 
 ![GithubBanner](./app/opengraph-image.png)
 
